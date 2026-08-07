@@ -35,5 +35,5 @@ I am an Electrical Engineering student at UFES with a technical background in El
 
 ### 🌍 Languages
 - **Portuguese:** Native
-- **English:** Intermediate (Technical reading and writing)
+- **English:** Intermediate (Conversational)
 - **French:** Basic
