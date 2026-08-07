@@ -37,9 +37,9 @@ I am an Electrical Engineering student at UFES with a technical background in El
 
 <div align="center">
   <a href="https://github.com/slcarneiro">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=slcarneiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=slcarneiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/slcarneiro">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slcarneiro&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slcarneiro&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
   </a>
 </div>
