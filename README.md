@@ -21,7 +21,7 @@ I am an Electrical Engineering student at UFES with a technical background in El
 
 ---
 
-### 🛠️ Languages and Technologies
+### 🛠️ Technologies
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
@@ -33,8 +33,7 @@ I am an Electrical Engineering student at UFES with a technical background in El
 
 ---
 
-### 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slcarneiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2)](https://github.com/slcarneiro)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slcarneiro&layout=compact&theme=tokyonight&v=2)](https://github.com/slcarneiro)
+### 🌍 Languages
+- **Portuguese:** Native
+- **English:** Intermediate (Technical reading and writing)
+- **French:** Basic
