@@ -19,8 +19,8 @@ I am an Electrical Engineering student at UFES with a technical background in El
   * **HCS Lab:** Research in Robotics, Control Systems, Virtual Reality, and QoE.
 - 🌱 **Currently learning:**
   * **⚙️ Control:** State-Space and Discrete-time modeling.
-  *💻 **Programming:** Python & MATLAB for Computer Vision and engineering simulations.
-  *⚡ **Electricity:** Analog Electronics and Power Systems.
+  * **💻 Programming:** Python & MATLAB for Computer Vision and engineering simulations.
+  * **⚡ Electricity:** Analog Electronics and Power Systems.
 - 👯 **Looking to collaborate on:** Human-Robot Interaction (HRI), Mixed Reality, Control Systems, or circuit/power systems simulation.
 - 💬 **Ask me about:** Python, MATLAB/Simulink, Unity digital twins, or Analog Electronics.
 - ⚡ **Fun fact:** When I'm not running simulations or teaching electricity basics to the community, I'm probably doing complex damage math to optimize character builds in Warframe.
