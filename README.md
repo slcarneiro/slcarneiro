@@ -13,7 +13,10 @@
 
 I am an Electrical Engineering student at UFES with a technical background in Electrotechnics from SENAI. I am passionate about the intersection of technology, control systems, and human factors.
 
-- 🎓 **Currently working on:** Undergraduate research at the HCS lab (QoE and Cybersickness in VR over 5G) and structural/control modeling for the AVES AeroDesign project.
+- 🎓 **Currently working on:** Computer Vision & Image Processing (LabVisio).
+- 🚀 **Past Projects:**
+  * **AVES AeroDesign:** Flight Stability and Control modeling.
+  * **HCS Lab:** Research in Robotics, Control Systems, Virtual Reality, and QoE.
 - 🌱 **Currently learning:** Advanced Control Systems (Root Locus, Space-State, Discretization methods) and honing my technical English.
 - 👯 **Looking to collaborate on:** Human-Robot Interaction (HRI), Mixed Reality, Control Systems, or circuit/power systems simulation.
 - 💬 **Ask me about:** Python, MATLAB/Simulink, Unity digital twins, or Analog Electronics.
